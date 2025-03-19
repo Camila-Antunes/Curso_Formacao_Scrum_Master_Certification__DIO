@@ -30,8 +30,11 @@ A versão final do modelo pode ser acessada neste link https://miro.com/app/boar
 📢 Sobre o curso:
 A Formação Scrum Master Certification pela DIO proporciona conhecimentos essenciais sobre o framework Scrum, sua aplicação no mercado e boas práticas para gestão ágil de projetos.
 
+
 📌 Tecnologias utilizadas:
 
 Scrum
+
 MIRO
+
 Git/GitHub
