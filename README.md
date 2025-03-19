@@ -1,8 +1,9 @@
 # Curso_Formacao_Scrum_Master_Certification__DIO
 Este repositório contém a análise crítica de um caso real onde a metodologia ágil, especificamente o Scrum, foi aplicada. O objetivo é refletir sobre as razões pelas quais a abordagem ágil foi escolhida, comparar com metodologias tradicionais, e avaliar os resultados e impactos da escolha do Scrum para a gestão do projeto.
 
-Objetivo da Análise
+Objetivo da Análise:
 A análise crítica abordará os seguintes pontos:
+
     • Por que a abordagem ágil foi escolhida em vez da tradicional?
 Será discutido o contexto do projeto e os motivos pelos quais a metodologia ágil foi mais adequada para os desafios enfrentados.
 
